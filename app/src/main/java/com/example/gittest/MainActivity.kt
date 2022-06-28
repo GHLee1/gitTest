@@ -14,4 +14,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
     var i = 0
+    var l = 13
 }
